@@ -1,0 +1,68 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="55">
+            <item index="0" class="java.lang.String" itemvalue="transformers" />
+            <item index="1" class="java.lang.String" itemvalue="nltk" />
+            <item index="2" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="3" class="java.lang.String" itemvalue="pattern" />
+            <item index="4" class="java.lang.String" itemvalue="torch" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="apex" />
+            <item index="7" class="java.lang.String" itemvalue="pandas" />
+            <item index="8" class="java.lang.String" itemvalue="regex" />
+            <item index="9" class="java.lang.String" itemvalue="spacy" />
+            <item index="10" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="11" class="java.lang.String" itemvalue="seaborn" />
+            <item index="12" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="13" class="java.lang.String" itemvalue="transformers.egg" />
+            <item index="14" class="java.lang.String" itemvalue="tqdm" />
+            <item index="15" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="16" class="java.lang.String" itemvalue="wandb" />
+            <item index="17" class="java.lang.String" itemvalue="sklearn" />
+            <item index="18" class="java.lang.String" itemvalue="en_core_web_sm" />
+            <item index="19" class="java.lang.String" itemvalue="fastBPE" />
+            <item index="20" class="java.lang.String" itemvalue="mosestokenizer" />
+            <item index="21" class="java.lang.String" itemvalue="lightseq" />
+            <item index="22" class="java.lang.String" itemvalue="mpi4py" />
+            <item index="23" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="24" class="java.lang.String" itemvalue="scipy" />
+            <item index="25" class="java.lang.String" itemvalue="numpydoc" />
+            <item index="26" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="27" class="java.lang.String" itemvalue="future" />
+            <item index="28" class="java.lang.String" itemvalue="h5py" />
+            <item index="29" class="java.lang.String" itemvalue="elmoformanylangs" />
+            <item index="30" class="java.lang.String" itemvalue="allennlp" />
+            <item index="31" class="java.lang.String" itemvalue="overrides" />
+            <item index="32" class="java.lang.String" itemvalue="conllu" />
+            <item index="33" class="java.lang.String" itemvalue="nose" />
+            <item index="34" class="java.lang.String" itemvalue="tensorflow-gpu" />
+            <item index="35" class="java.lang.String" itemvalue="beir" />
+            <item index="36" class="java.lang.String" itemvalue="lsh" />
+            <item index="37" class="java.lang.String" itemvalue="ftfy" />
+            <item index="38" class="java.lang.String" itemvalue="fasttext" />
+            <item index="39" class="java.lang.String" itemvalue="deepspeed" />
+            <item index="40" class="java.lang.String" itemvalue="langdetect" />
+            <item index="41" class="java.lang.String" itemvalue="unidecode" />
+            <item index="42" class="java.lang.String" itemvalue="tldextract" />
+            <item index="43" class="java.lang.String" itemvalue="ptvsd" />
+            <item index="44" class="java.lang.String" itemvalue="fairseq" />
+            <item index="45" class="java.lang.String" itemvalue="ipython" />
+            <item index="46" class="java.lang.String" itemvalue="packaging" />
+            <item index="47" class="java.lang.String" itemvalue="datasets" />
+            <item index="48" class="java.lang.String" itemvalue="requests" />
+            <item index="49" class="java.lang.String" itemvalue="rouge_score" />
+            <item index="50" class="java.lang.String" itemvalue="pytorch_pretrained_bert" />
+            <item index="51" class="java.lang.String" itemvalue="sacrebleu" />
+            <item index="52" class="java.lang.String" itemvalue="huggingface_hub" />
+            <item index="53" class="java.lang.String" itemvalue="xlrd" />
+            <item index="54" class="java.lang.String" itemvalue="openpyxl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

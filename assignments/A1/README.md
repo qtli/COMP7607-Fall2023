@@ -15,8 +15,8 @@ You will also apply your model to the task of classification.
 
 ## Important Dates:
 - Assignment release: September 25, 2022
-- Test file release: Octorber 6, 2022
-- Submission deadline: Octorber 13, 2022, 06:00am (Late submissions will not be graded.)
+- Test file release: Octorber 17, 2022
+- Submission deadline: Octorber 23, 2022, 06:00am (Late submissions will not be graded.)
 
 ## Submission
 You should submit the **UniversityNumber.ipynb** file and final prediction file  **UniversityNumber.test.out** of Section 2 to moodle. 

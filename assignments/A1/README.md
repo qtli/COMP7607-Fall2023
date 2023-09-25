@@ -8,7 +8,7 @@ You will also apply your model to the task of classification.
 
 ## Contents
 - [A1.pdf](A1.pdf): Assignment Handbook
-- [A1.ipynb](A1.ipynb): Jupyter Notebook template. \([Google Colab version](https://colab.research.google.com/github/ranpox/comp7607-fall2022/blob/main/assignments/A1/A1.ipynb)\)
+- [A1.ipynb](A1.ipynb): Jupyter Notebook template. \([Google Colab version](https://colab.research.google.com/drive/1t9Ew-z7wRu7MYzmf4bLHvxsJ9m13ey81?usp=sharing)\)
 - [data](data):
     - [Data files for Section 1 n-gram lm](data/lm)
     - [Data files for Section 2 preposition prediction](data/prep)

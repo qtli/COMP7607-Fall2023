@@ -14,9 +14,9 @@ You will also apply your model to the task of classification.
     - [Data files for Section 2 preposition prediction](data/prep)
 
 ## Important Dates:
-- Assignment release: September 25, 2022
-- Test file release: Octorber 17, 2022
-- Submission deadline: Octorber 23, 2022, 06:00am (Late submissions will not be graded.)
+- Assignment release: September 26, 2023
+- Test file release: Octorber 17, 2023
+- Submission deadline: Octorber 23, 2023, 06:00am (Late submissions will not be graded.)
 
 ## Submission
 You should submit the **UniversityNumber.ipynb** file and final prediction file  **UniversityNumber.test.out** of Section 2 to moodle. 

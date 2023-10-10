@@ -1,7 +1,7 @@
 .idea
 
 assignments/A1/data/prep/test.out
-data/prep/test.in
+assignments/A1/data/prep/test.in
 assignments/A1/data/lm/process.py
 assignments/A1/data/lm/trnew.txt
 assignments/A1/data/lm/vocab.txt

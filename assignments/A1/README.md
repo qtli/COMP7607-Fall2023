@@ -1,10 +1,9 @@
 # Assignment 1
 
-A linguistic system without statistics is often fragile, and may break when run on real data. It will also be unable to resolve
-ambiguities. N-gram model is a starting point, and may get reasonable results even though it doesn't have any real linguistics yet.
+A linguistic system without statistics is often fragile and may break when run on real data. It will also be unable to resolve ambiguities. The N-gram model is a starting point and may get reasonable results even though it doesn't have any real linguistics yet.
 
-This assignment will guide you though the implementation of n-gram language models with various approaches to handling sparse data. 
-You will also apply your model to the task of classification.
+This assignment will guide you through the implementation of n-gram language models with various approaches to handling sparse data. You will also apply your model to the task of classification.
+
 
 ## Contents
 - [A1.pdf](A1.pdf): Assignment Handbook
@@ -14,9 +13,9 @@ You will also apply your model to the task of classification.
     - [Data files for Section 2 preposition prediction](data/prep)
 
 ## Important Dates:
-- Assignment release: September 25, 2022
-- Test file release: Octorber 17, 2022
-- Submission deadline: Octorber 23, 2022, 06:00am (Late submissions will not be graded.)
+- Assignment release: September 26, 2023
+- Test file release: Octorber 17, 2023
+- Submission deadline: Octorber 23, 2023, 06:00am (Late submissions will not be graded.)
 
 ## Submission
 You should submit the **UniversityNumber.ipynb** file and final prediction file  **UniversityNumber.test.out** of Section 2 to moodle. 

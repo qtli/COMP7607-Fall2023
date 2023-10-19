@@ -14,8 +14,8 @@ This assignment will guide you through the implementation of n-gram language mod
 
 ## Important Dates:
 - Assignment release: September 26, 2023
-- Test file release: Octorber 17, 2023
-- Submission deadline: Octorber 23, 2023, 06:00am (Late submissions will not be graded.)
+- Test file release: October 17, 2023
+- Submission deadline: October 23, 2023, 06:00am (Late submissions will not be graded.)
 
 ## Submission
 You should submit the **UniversityNumber.ipynb** file and final prediction file  **UniversityNumber.test.out** of Section 2 to moodle. 

@@ -1,4 +1,5 @@
 .idea
+.DS_Store
 
 assignments/A1/data/prep/test.out
 assignments/A1/data/lm/process.py

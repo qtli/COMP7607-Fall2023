@@ -1,1 +1,1152 @@
-{"payload":{"allShortcutsEnabled":false,"fileTree":{"assignments/A1/data/prep":{"items":[{"name":"dev.in","path":"assignments/A1/data/prep/dev.in","contentType":"file"},{"name":"dev.out","path":"assignments/A1/data/prep/dev.out","contentType":"file"}],"totalCount":2},"assignments/A1/data":{"items":[{"name":"lm","path":"assignments/A1/data/lm","contentType":"directory"},{"name":"prep","path":"assignments/A1/data/prep","contentType":"directory"}],"totalCount":2},"assignments/A1":{"items":[{"name":"data","path":"assignments/A1/data","contentType":"directory"},{"name":"A1.ipynb","path":"assignments/A1/A1.ipynb","contentType":"file"},{"name":"A1.pdf","path":"assignments/A1/A1.pdf","contentType":"file"},{"name":"README.md","path":"assignments/A1/README.md","contentType":"file"}],"totalCount":4},"assignments":{"items":[{"name":"A1","path":"assignments/A1","contentType":"directory"}],"totalCount":1},"":{"items":[{"name":"assignments","path":"assignments","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":3}},"fileTreeProcessingTime":18.976967000000002,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":690341397,"defaultBranch":"master","name":"COMP7607-Fall2023","ownerLogin":"qtli","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-09-12T02:28:35.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/11583467?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1694485715.0","canEdit":false,"refType":"branch","currentOid":"3752d036376b788c83b84eb618bd17680a72a777"},"path":"assignments/A1/data/prep/dev.out","currentUser":null,"blob":{"rawLines":["on of in in\r","of\r","of\r","in of for\r","of in for on\r","at in\r","on\r","of in in on of\r","on on in\r","on\r","on\r","of on of in\r","in\r","for in\r","of on\r","in of\r","on of\r","in of\r","on for of\r","of at on at on\r","in of of\r","of in on on\r","on for of\r","in in at of for\r","on for of\r","on\r","at\r","of on in of\r","of in on\r","at\r","on on in\r","in of\r","on on\r","in of\r","in of\r","on of\r","on of\r","in\r","in in\r","at of at of\r","on of in\r","of on\r","for for in of\r","on at on\r","on\r","on of for in\r","of in on of\r","on\r","of\r","of for\r","in of\r","on\r","of in for in in\r","at of in of in\r","in on\r","in in\r","in\r","at on\r","at of in of\r","in on in\r","in for\r","for of of\r","at in at\r","of on in\r","at in at\r","on for at in\r","on\r","on\r","in\r","at\r","in\r","on on\r","of\r","on of on in\r","on for in for\r","for for in of\r","for in\r","in of\r","of\r","in of in on in\r","for in of for at on of at\r","on for in for\r","on of\r","in of of\r","of of in\r","on of of at\r","for of for\r","of at\r","in of\r","of on of at\r","in for\r","of of at\r","of\r","in of\r","in of\r","for of of\r","of\r","of\r","on of in\r","in at\r","of\r","in of in\r","of\r","of at on for in of\r","on of in\r","in on of\r","on in\r","of of\r","on in\r","of in for of at\r","for of on of of\r","on\r","on\r","of of at of on\r","in\r","of in for\r","of in\r","at of\r","at\r","on of\r","of in\r","of\r","on\r","of of of in\r","on\r","for\r","of on\r","in\r","on in\r","of in of on\r","of\r","in of of in of of\r","of at in of of\r","of\r","in\r","on\r","at\r","on of of\r","in\r","of in on of in\r","in\r","of in\r","for\r","on of in of\r","of in\r","of in\r","on\r","on\r","of in\r","on\r","for\r","in of\r","on of of for\r","at\r","on in\r","on at\r","in at on of\r","in for for on\r","of at of for\r","in of for in in\r","on on\r","in on\r","for in of\r","for in of\r","in on of\r","in of on in of\r","for in\r","at in\r","on on\r","on of on for at\r","on\r","on\r","in on of\r","of at of\r","in\r","in at of on\r","on\r","in in of on on\r","on of\r","in in of of for\r","in for for\r","of at\r","in in\r","in\r","of\r","in\r","on\r","of in of\r","of\r","on on\r","on for of\r","of\r","in\r","in on in\r","on of\r","of for in in of\r","on in\r","of for\r","of of\r","of on on in in\r","of of for\r","in on in\r","for of in of\r","on\r","for at on\r","on for of in of\r","on in for\r","in\r","of of\r","of on in\r","of for\r","on in in for\r","on on of\r","for on of in of\r","on on on\r","in of on\r","in for on\r","of\r","in of on in\r","on\r","in of in of\r","in\r","for in on of on\r","at in\r","on at in of of\r","of in\r","in in\r","in in\r","in of in of\r","on for\r","in in in\r","of in in\r","in of in\r","of of of\r","of in in\r","of for of in of in\r","on in\r","on in for of at\r","of on of\r","on\r","of of in of\r","on\r","in\r","of\r","in at\r","of in in\r","in on of on of\r","on\r","in\r","on on\r","in of in\r","in in for for\r","for in\r","on of at\r","on\r","in\r","in\r","in for on\r","on on for\r","of on\r","for\r","in in\r","for of in\r","at of for on of\r","for in\r","at of\r","of on\r","of for in\r","in\r","in at\r","of\r","of\r","on for of of\r","in for\r","of in\r","in\r","at for\r","for on\r","of at in on\r","in of of on of of\r","for\r","in\r","of in of\r","of of in\r","for on\r","at\r","in for\r","of of\r","in on\r","at for of\r","of\r","on for in for\r","of\r","in in of\r","in for in\r","of\r","of\r","in\r","of\r","of of in in of\r","for for on of\r","for of\r","at for at\r","at of\r","on for\r","on in in in\r","of in on\r","in in on\r","in\r","on of of\r","on in\r","of in in in\r","at for of\r","on\r","at in on in\r","of of\r","of\r","in in\r","of\r","in in on in\r","in in on\r","on of in\r","on in\r","of in\r","on\r","in in in\r","in of on\r","of in\r","on in\r","on\r","of in\r","in for of on at\r","in on\r","on\r","at of for\r","of of of in\r","in of of\r","of in\r","on of of\r","of\r","in of on\r","in on in on in of of\r","of in\r","for of of on\r","of of\r","on in\r","in\r","in for in for at of\r","on\r","of on in in in\r","on on\r","on of in in\r","in\r","in on\r","on\r","on in\r","on on\r","in\r","of for\r","of in of\r","on in\r","in\r","in on of\r","of\r","in in in in at\r","of in\r","for in\r","on for at\r","on\r","for\r","on at at\r","of in\r","of on of\r","in in\r","in\r","of of in\r","on\r","in\r","in for of\r","on for\r","on of in\r","at in of\r","on on of for\r","at\r","at of in\r","at on on\r","of\r","at for at\r","in\r","for\r","on\r","of at in\r","of in\r","of on of\r","of in of\r","of in of\r","of in for for\r","in of on\r","on of of at of\r","in of on on\r","of in for for\r","of in of\r","of for for in in in on\r","of at of\r","of in for of of\r","on\r","of for on\r","in of\r","on of in\r","in in\r","on in of of\r","in in\r","at\r","of in of\r","in of\r","of in in\r","of for of in of\r","in of\r","in of of\r","on in\r","of on\r","in in\r","for in for on of\r","in of\r","in of of\r","in\r","in for\r","in at of\r","in in of\r","on of\r","at\r","in for of\r","in\r","of\r","on of\r","of\r","in of\r","of\r","in\r","in in of\r","of in for\r","of for in of\r","in on in\r","of of of of\r","on in\r","on in\r","at\r","of on of\r","of on of at\r","of on of of\r","for\r","in\r","of in\r","in on in\r","for in of on of in\r","on\r","on of in\r","of at on of\r","at of\r","in of for\r","on in of\r","of of in in\r","for in on\r","for in of on of in\r","on of in\r","in on on\r","on for on\r","of of of\r","in for in of\r","in of in\r","in on of\r","for of of\r","in in in on\r","on of in\r","of in\r","of on of\r","of in on\r","in of at on at on\r","on for of\r","in in on\r","at of\r","in in\r","of in for\r","in of on\r","in\r","of on in on\r","for in of for of\r","in on in\r","on at of in\r","in\r","of in of\r","in of for on of of\r","of on of for\r","on at of\r","of on\r","of of of\r","of in of\r","on\r","of of of\r","at on\r","of in\r","of\r","in\r","of of\r","in on in\r","of of\r","in\r","in of in\r","in of\r","for of\r","of for in at\r","for of at in\r","at in\r","in in of on\r","of of of\r","of in\r","in in\r","of in in\r","in\r","for in in\r","of\r","in in\r","of in of\r","in in\r","at\r","of\r","of on for in\r","in for of of\r","on at\r","in of of in\r","for in\r","in in\r","on\r","in in\r","of in of\r","on on of\r","for for\r","in on on of\r","on\r","of on\r","of in of in of\r","of of in\r","of\r","on of for\r","of in for of for\r","in on in in on\r","for\r","in of in on\r","in at for of on\r","for of\r","of in for of for\r","in on\r","for of\r","for\r","for on on\r","of on of\r","on in\r","for for\r","of in in in at on\r","on of\r","of on\r","at of in\r","in of of\r","of\r","in of of\r","in in\r","for\r","on in\r","in\r","in of\r","on\r","of at of in\r","on\r","in of of in\r","on of\r","in in of\r","on of in\r","in of\r","in of in of\r","of\r","on of\r","in\r","in in in\r","of for\r","of\r","of\r","of in\r","in\r","on\r","on in of of\r","in in on in\r","in in of in\r","of in on\r","on of at in\r","for of\r","in of\r","in\r","in in\r","of for of\r","of at\r","of\r","for of\r","of for of\r","on of\r","in for\r","of in\r","of on\r","for for in\r","in\r","on in\r","in in of\r","on in for in\r","of in\r","of\r","of\r","of on for in\r","for\r","in at in of in\r","of in\r","at at\r","on of of in\r","for\r","in at\r","on on\r","on of\r","at\r","for\r","of on for\r","on in of\r","in on\r","in\r","of in of\r","of\r","of for of in\r","in in\r","on for in at on\r","in\r","in of in of\r","of for\r","on in\r","on in\r","in\r","of of\r","on\r","in\r","of\r","of of in in on\r","in on of\r","for for in\r","in of of on\r","on of\r","at\r","of\r","on\r","on on\r","in of in of\r","in\r","in\r","in on of\r","of\r","in\r","of for\r","of of\r","on of\r","in on of at on\r","in for in at\r","of\r","on of\r","in on\r","on of of\r","of of\r","on in\r","in of in\r","on\r","on of at in\r","for\r","on\r","in on\r","in for\r","of of\r","of in in\r","on\r","of in at\r","of of\r","on of of\r","of on\r","on\r","of of of in at\r","of of\r","on of\r","in of on\r","of in of on\r","on at\r","in on\r","for in\r","of\r","on\r","on\r","in\r","of at in\r","on\r","of\r","in of\r","on\r","of\r","on of of at in\r","for\r","in at in of in\r","for of of in\r","in on in\r","of in\r","of in\r","for in in in\r","in\r","in on\r","in for of on\r","on on in\r","in for on\r","of on\r","in\r","on in\r","of in in\r","in\r","at\r","on\r","at on\r","for on of\r","of of in on\r","on\r","for at in on of at on\r","of on\r","of of\r","at of of in on of\r","of\r","in of\r","on on in\r","of\r","of\r","of\r","in\r","of\r","of in of\r","for in on\r","in of\r","of in for\r","in of on of\r","on\r","on in\r","on\r","of for on of on\r","in on\r","on of\r","for in on of at\r","in of\r","of at in\r","in of in\r","for at\r","of\r","in\r","on for on for\r","at on for of of\r","of\r","for in\r","of of\r","in of\r","of of\r","in in on in\r","of of at in of\r","for\r","in of in\r","of\r","of of\r","of on of in in\r","on at of\r","for for of\r","for\r","for for in\r","of in of on\r","of of on\r","in on of\r","in of\r","in of\r","in\r","in of\r","of of\r","in in of\r","in in\r","in for\r","on of in for on\r","at in of\r","in in on\r","of in on\r","in\r","for for on of at\r","in\r","of in\r","on of on for\r","on of on\r","in in\r","in on\r","for at for\r","for of in\r","on\r","of of of on\r","in of at of\r","at in in\r","in on for on of\r","of\r","in in\r","for\r","on of in\r","at\r","of of in\r","of in\r","of in\r","for of\r","of on in\r","of\r","in in\r","for of in\r","in in on\r","in in on\r","of on in of\r","on of\r","in\r","in\r","of\r","in of\r","in in\r","of in of\r","in of of of at\r","in on\r","for of\r","on in\r","of\r","in\r","on in\r","on\r","in\r","in on\r","of in in\r","of of of\r","in\r","at for\r","of\r","for\r","for\r","on in for\r","in\r","on in on of for\r","on in\r","for of on of\r","on\r","of in of\r","in in for\r","of on\r","of in\r","of on in on in\r","in of\r","on at\r","in of\r","on in of\r","at in on of at on\r","for\r","in on of\r","of in on for\r","for for of\r","of of\r","on\r","in of\r","on in in of\r","on\r","in of in\r","in on on\r","in on\r","for\r","of in\r","in for at\r","for\r","of\r","in at\r","on\r","of\r","for on\r","of\r","of in at in\r","in at\r","on of in\r","of of in of at\r","at\r","in on of\r","of for\r","on for\r","for for at\r","in\r","in of\r","of of in in of\r","of at\r","in\r","in for in\r","on of\r","in for\r","at\r","of of in on\r","in for\r","of of\r","at of for\r","of in for of\r","at in on of at on\r","in in on\r","on at\r","in of\r","in\r","on for\r","for of on for in\r","of in on\r","in of of on\r","of at\r","for for\r","for on of for on\r","at\r","of at\r","in in\r","of on for\r","in\r","at in\r","of of in\r","of in\r","for of of on\r","in at on\r","in at on\r","for in of on\r","in of of in\r","of on of\r","in\r","in\r","of at on in on\r","of on at\r","of for in\r","on\r","in at on\r","on on for\r","in at in\r","for of in\r","of of\r","in of\r","on in of\r","of in\r","on of\r","for in\r","for of for\r","in on of for of in\r","on\r","for of for\r","in of\r","of on of in\r","of at\r","of in\r","on of on\r","for for in at\r","in on of for of in\r","at\r","of at in\r","for on of\r","for of in\r","in of in in on in\r","on of of\r","on\r","of on in\r","in in for\r","in for in at\r","for in in in\r","of on in\r","in in\r","in\r","in of\r","in in for\r","of of in of\r","of in of\r","in of of on\r","in\r","in of\r","in on\r","of in\r","in for in on\r","of of on in in\r","for in in of\r","in\r","at on of at on\r","in in\r","of in of\r","at\r","for at in\r","in\r","of\r","of in\r","for on of in\r","at in in of in at\r","for for of in\r","at in in of\r","on\r","of in on\r","on in\r","of on\r","on\r","of\r","in of on\r","at\r","in of\r","in of in on\r","on\r","of on\r","on\r","on\r","in\r","on of\r","on at\r","in\r","of of\r","of in in for for\r","on on for in\r","at on\r","on of of\r","on of\r","in in in\r","in on\r","for on in\r","on in\r","in on at\r","for of for of\r","on at in of\r","for of in of\r","in in\r","in\r","at\r","of\r","on\r","of in\r","on of on for\r","of\r","in\r","in\r","on at in of\r","on in\r","of\r","in for\r","in on of at\r","at of in\r","at in on\r","for\r","on on\r","on for in\r","in for on\r","at in\r","in for on\r","in on\r","for in in\r","in in\r","on of in\r","on for on in\r","of of\r","of on in\r","for in\r","in of in\r","for on\r","at of\r","for\r","of of\r","in of on\r","on of at of in\r","in\r","on of in\r","in in on\r","in\r","at\r","of\r","of in\r","in\r","of\r","at of\r","on on of\r","on\r","of for\r","in\r","on on\r","in\r","in in of\r","in of\r","for of\r","of\r","in of of of\r","in of in in of\r","of for\r","at of\r","on for\r","of of at for on\r","for on\r","in\r","in\r","of\r","in of\r","on on\r","for\r","in of on at\r","on of\r","of on in\r","in\r","on for\r","in of\r","in in for of on\r","on\r","in in in\r","for in for\r","on of of on\r","of\r","on of in\r","in of\r","on in\r","on\r","of in\r","for on of in\r","of in in in\r","on in\r","on\r","for in at of\r","on on\r","of for\r","on of of\r","of for\r","on\r","on in for in\r","on\r","of of of\r","on of in of\r","in in\r","of of\r","at in of at\r","of of of of\r","of of\r","in\r","on\r","in on on\r","in of for\r","on on on\r","of at\r","of of of\r","of of\r","on of of\r","on for on in of\r","for of of of\r","in of\r","on of in\r"],"stylingDirectives":[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/qtli/COMP7607-Fall2023/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/qtli/COMP7607-Fall2023/security/dependabot","repoSecurityAndAnalysisPath":"/qtli/COMP7607-Fall2023/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"dev.out","displayUrl":"https://github.com/qtli/COMP7607-Fall2023/blob/master/assignments/A1/data/prep/dev.out?raw=true","headerInfo":{"blobSize":"9.78 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"cf547a3","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fqtli%2FCOMP7607-Fall2023%2Fblob%2Fmaster%2Fassignments%2FA1%2Fdata%2Fprep%2Fdev.out","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"1152","truncatedSloc":"1152"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/qtli/COMP7607-Fall2023/discussions/new","newIssuePath":"/qtli/COMP7607-Fall2023/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/qtli/COMP7607-Fall2023/blob/master/assignments/A1/data/prep/dev.out","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/qtli/COMP7607-Fall2023/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/qtli/COMP7607-Fall2023/raw/master/assignments/A1/data/prep/dev.out","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"qtli","repoName":"COMP7607-Fall2023","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/qtli/COMP7607-Fall2023/branches":{"post":"NGfVUdfvnzScJz9IY3W4uR5YFT9gOUIO9Jn8YImeqiF28iqRpi8cs-Pg3AS-gRUy44g-1Ll0fS7T8WMsXtxQ3Q"},"/repos/preferences":{"post":"6icySZFobu_vWxVCvhhJ0JHYXaWY_M3pyUMPGVX1MTZXzpbg6SEKUwg-Jf1YBZyrTpZkkH5mrPpxbEc3ZBlSNg"}}},"title":"COMP7607-Fall2023/assignments/A1/data/prep/dev.out at master · qtli/COMP7607-Fall2023"}
+on of in in
+of
+of
+in of for
+of in for on
+at in
+on
+of in in on of
+on on in
+on
+on
+of on of in
+in
+for in
+of on
+in of
+on of
+in of
+on for of
+of at on at on
+in of of
+of in on on
+on for of
+in in at of for
+on for of
+on
+at
+of on in of
+of in on
+at
+on on in
+in of
+on on
+in of
+in of
+on of
+on of
+in
+in in
+at of at of
+on of in
+of on
+for for in of
+on at on
+on
+on of for in
+of in on of
+on
+of
+of for
+in of
+on
+of in for in in
+at of in of in
+in on
+in in
+in
+at on
+at of in of
+in on in
+in for
+for of of
+at in at
+of on in
+at in at
+on for at in
+on
+on
+in
+at
+in
+on on
+of
+on of on in
+on for in for
+for for in of
+for in
+in of
+of
+in of in on in
+for in of for at on of at
+on for in for
+on of
+in of of
+of of in
+on of of at
+for of for
+of at
+in of
+of on of at
+in for
+of of at
+of
+in of
+in of
+for of of
+of
+of
+on of in
+in at
+of
+in of in
+of
+of at on for in of
+on of in
+in on of
+on in
+of of
+on in
+of in for of at
+for of on of of
+on
+on
+of of at of on
+in
+of in for
+of in
+at of
+at
+on of
+of in
+of
+on
+of of of in
+on
+for
+of on
+in
+on in
+of in of on
+of
+in of of in of of
+of at in of of
+of
+in
+on
+at
+on of of
+in
+of in on of in
+in
+of in
+for
+on of in of
+of in
+of in
+on
+on
+of in
+on
+for
+in of
+on of of for
+at
+on in
+on at
+in at on of
+in for for on
+of at of for
+in of for in in
+on on
+in on
+for in of
+for in of
+in on of
+in of on in of
+for in
+at in
+on on
+on of on for at
+on
+on
+in on of
+of at of
+in
+in at of on
+on
+in in of on on
+on of
+in in of of for
+in for for
+of at
+in in
+in
+of
+in
+on
+of in of
+of
+on on
+on for of
+of
+in
+in on in
+on of
+of for in in of
+on in
+of for
+of of
+of on on in in
+of of for
+in on in
+for of in of
+on
+for at on
+on for of in of
+on in for
+in
+of of
+of on in
+of for
+on in in for
+on on of
+for on of in of
+on on on
+in of on
+in for on
+of
+in of on in
+on
+in of in of
+in
+for in on of on
+at in
+on at in of of
+of in
+in in
+in in
+in of in of
+on for
+in in in
+of in in
+in of in
+of of of
+of in in
+of for of in of in
+on in
+on in for of at
+of on of
+on
+of of in of
+on
+in
+of
+in at
+of in in
+in on of on of
+on
+in
+on on
+in of in
+in in for for
+for in
+on of at
+on
+in
+in
+in for on
+on on for
+of on
+for
+in in
+for of in
+at of for on of
+for in
+at of
+of on
+of for in
+in
+in at
+of
+of
+on for of of
+in for
+of in
+in
+at for
+for on
+of at in on
+in of of on of of
+for
+in
+of in of
+of of in
+for on
+at
+in for
+of of
+in on
+at for of
+of
+on for in for
+of
+in in of
+in for in
+of
+of
+in
+of
+of of in in of
+for for on of
+for of
+at for at
+at of
+on for
+on in in in
+of in on
+in in on
+in
+on of of
+on in
+of in in in
+at for of
+on
+at in on in
+of of
+of
+in in
+of
+in in on in
+in in on
+on of in
+on in
+of in
+on
+in in in
+in of on
+of in
+on in
+on
+of in
+in for of on at
+in on
+on
+at of for
+of of of in
+in of of
+of in
+on of of
+of
+in of on
+in on in on in of of
+of in
+for of of on
+of of
+on in
+in
+in for in for at of
+on
+of on in in in
+on on
+on of in in
+in
+in on
+on
+on in
+on on
+in
+of for
+of in of
+on in
+in
+in on of
+of
+in in in in at
+of in
+for in
+on for at
+on
+for
+on at at
+of in
+of on of
+in in
+in
+of of in
+on
+in
+in for of
+on for
+on of in
+at in of
+on on of for
+at
+at of in
+at on on
+of
+at for at
+in
+for
+on
+of at in
+of in
+of on of
+of in of
+of in of
+of in for for
+in of on
+on of of at of
+in of on on
+of in for for
+of in of
+of for for in in in on
+of at of
+of in for of of
+on
+of for on
+in of
+on of in
+in in
+on in of of
+in in
+at
+of in of
+in of
+of in in
+of for of in of
+in of
+in of of
+on in
+of on
+in in
+for in for on of
+in of
+in of of
+in
+in for
+in at of
+in in of
+on of
+at
+in for of
+in
+of
+on of
+of
+in of
+of
+in
+in in of
+of in for
+of for in of
+in on in
+of of of of
+on in
+on in
+at
+of on of
+of on of at
+of on of of
+for
+in
+of in
+in on in
+for in of on of in
+on
+on of in
+of at on of
+at of
+in of for
+on in of
+of of in in
+for in on
+for in of on of in
+on of in
+in on on
+on for on
+of of of
+in for in of
+in of in
+in on of
+for of of
+in in in on
+on of in
+of in
+of on of
+of in on
+in of at on at on
+on for of
+in in on
+at of
+in in
+of in for
+in of on
+in
+of on in on
+for in of for of
+in on in
+on at of in
+in
+of in of
+in of for on of of
+of on of for
+on at of
+of on
+of of of
+of in of
+on
+of of of
+at on
+of in
+of
+in
+of of
+in on in
+of of
+in
+in of in
+in of
+for of
+of for in at
+for of at in
+at in
+in in of on
+of of of
+of in
+in in
+of in in
+in
+for in in
+of
+in in
+of in of
+in in
+at
+of
+of on for in
+in for of of
+on at
+in of of in
+for in
+in in
+on
+in in
+of in of
+on on of
+for for
+in on on of
+on
+of on
+of in of in of
+of of in
+of
+on of for
+of in for of for
+in on in in on
+for
+in of in on
+in at for of on
+for of
+of in for of for
+in on
+for of
+for
+for on on
+of on of
+on in
+for for
+of in in in at on
+on of
+of on
+at of in
+in of of
+of
+in of of
+in in
+for
+on in
+in
+in of
+on
+of at of in
+on
+in of of in
+on of
+in in of
+on of in
+in of
+in of in of
+of
+on of
+in
+in in in
+of for
+of
+of
+of in
+in
+on
+on in of of
+in in on in
+in in of in
+of in on
+on of at in
+for of
+in of
+in
+in in
+of for of
+of at
+of
+for of
+of for of
+on of
+in for
+of in
+of on
+for for in
+in
+on in
+in in of
+on in for in
+of in
+of
+of
+of on for in
+for
+in at in of in
+of in
+at at
+on of of in
+for
+in at
+on on
+on of
+at
+for
+of on for
+on in of
+in on
+in
+of in of
+of
+of for of in
+in in
+on for in at on
+in
+in of in of
+of for
+on in
+on in
+in
+of of
+on
+in
+of
+of of in in on
+in on of
+for for in
+in of of on
+on of
+at
+of
+on
+on on
+in of in of
+in
+in
+in on of
+of
+in
+of for
+of of
+on of
+in on of at on
+in for in at
+of
+on of
+in on
+on of of
+of of
+on in
+in of in
+on
+on of at in
+for
+on
+in on
+in for
+of of
+of in in
+on
+of in at
+of of
+on of of
+of on
+on
+of of of in at
+of of
+on of
+in of on
+of in of on
+on at
+in on
+for in
+of
+on
+on
+in
+of at in
+on
+of
+in of
+on
+of
+on of of at in
+for
+in at in of in
+for of of in
+in on in
+of in
+of in
+for in in in
+in
+in on
+in for of on
+on on in
+in for on
+of on
+in
+on in
+of in in
+in
+at
+on
+at on
+for on of
+of of in on
+on
+for at in on of at on
+of on
+of of
+at of of in on of
+of
+in of
+on on in
+of
+of
+of
+in
+of
+of in of
+for in on
+in of
+of in for
+in of on of
+on
+on in
+on
+of for on of on
+in on
+on of
+for in on of at
+in of
+of at in
+in of in
+for at
+of
+in
+on for on for
+at on for of of
+of
+for in
+of of
+in of
+of of
+in in on in
+of of at in of
+for
+in of in
+of
+of of
+of on of in in
+on at of
+for for of
+for
+for for in
+of in of on
+of of on
+in on of
+in of
+in of
+in
+in of
+of of
+in in of
+in in
+in for
+on of in for on
+at in of
+in in on
+of in on
+in
+for for on of at
+in
+of in
+on of on for
+on of on
+in in
+in on
+for at for
+for of in
+on
+of of of on
+in of at of
+at in in
+in on for on of
+of
+in in
+for
+on of in
+at
+of of in
+of in
+of in
+for of
+of on in
+of
+in in
+for of in
+in in on
+in in on
+of on in of
+on of
+in
+in
+of
+in of
+in in
+of in of
+in of of of at
+in on
+for of
+on in
+of
+in
+on in
+on
+in
+in on
+of in in
+of of of
+in
+at for
+of
+for
+for
+on in for
+in
+on in on of for
+on in
+for of on of
+on
+of in of
+in in for
+of on
+of in
+of on in on in
+in of
+on at
+in of
+on in of
+at in on of at on
+for
+in on of
+of in on for
+for for of
+of of
+on
+in of
+on in in of
+on
+in of in
+in on on
+in on
+for
+of in
+in for at
+for
+of
+in at
+on
+of
+for on
+of
+of in at in
+in at
+on of in
+of of in of at
+at
+in on of
+of for
+on for
+for for at
+in
+in of
+of of in in of
+of at
+in
+in for in
+on of
+in for
+at
+of of in on
+in for
+of of
+at of for
+of in for of
+at in on of at on
+in in on
+on at
+in of
+in
+on for
+for of on for in
+of in on
+in of of on
+of at
+for for
+for on of for on
+at
+of at
+in in
+of on for
+in
+at in
+of of in
+of in
+for of of on
+in at on
+in at on
+for in of on
+in of of in
+of on of
+in
+in
+of at on in on
+of on at
+of for in
+on
+in at on
+on on for
+in at in
+for of in
+of of
+in of
+on in of
+of in
+on of
+for in
+for of for
+in on of for of in
+on
+for of for
+in of
+of on of in
+of at
+of in
+on of on
+for for in at
+in on of for of in
+at
+of at in
+for on of
+for of in
+in of in in on in
+on of of
+on
+of on in
+in in for
+in for in at
+for in in in
+of on in
+in in
+in
+in of
+in in for
+of of in of
+of in of
+in of of on
+in
+in of
+in on
+of in
+in for in on
+of of on in in
+for in in of
+in
+at on of at on
+in in
+of in of
+at
+for at in
+in
+of
+of in
+for on of in
+at in in of in at
+for for of in
+at in in of
+on
+of in on
+on in
+of on
+on
+of
+in of on
+at
+in of
+in of in on
+on
+of on
+on
+on
+in
+on of
+on at
+in
+of of
+of in in for for
+on on for in
+at on
+on of of
+on of
+in in in
+in on
+for on in
+on in
+in on at
+for of for of
+on at in of
+for of in of
+in in
+in
+at
+of
+on
+of in
+on of on for
+of
+in
+in
+on at in of
+on in
+of
+in for
+in on of at
+at of in
+at in on
+for
+on on
+on for in
+in for on
+at in
+in for on
+in on
+for in in
+in in
+on of in
+on for on in
+of of
+of on in
+for in
+in of in
+for on
+at of
+for
+of of
+in of on
+on of at of in
+in
+on of in
+in in on
+in
+at
+of
+of in
+in
+of
+at of
+on on of
+on
+of for
+in
+on on
+in
+in in of
+in of
+for of
+of
+in of of of
+in of in in of
+of for
+at of
+on for
+of of at for on
+for on
+in
+in
+of
+in of
+on on
+for
+in of on at
+on of
+of on in
+in
+on for
+in of
+in in for of on
+on
+in in in
+for in for
+on of of on
+of
+on of in
+in of
+on in
+on
+of in
+for on of in
+of in in in
+on in
+on
+for in at of
+on on
+of for
+on of of
+of for
+on
+on in for in
+on
+of of of
+on of in of
+in in
+of of
+at in of at
+of of of of
+of of
+in
+on
+in on on
+in of for
+on on on
+of at
+of of of
+of of
+on of of
+on for on in of
+for of of of
+in of
+on of in

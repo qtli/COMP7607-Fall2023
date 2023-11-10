@@ -5,4 +5,4 @@
 
 ## Important Dates:
 - Assignment release: November 10, 2023
-- Submission deadline: December 4, 2023, 06:00am (Late submissions will not be graded.)
+- Submission deadline: December 8, 2023, 06:00am (Late submissions will not be graded.)

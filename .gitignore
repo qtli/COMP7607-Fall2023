@@ -1,7 +1,6 @@
 .idea
 .DS_Store
 assignments/A1/data/prep/test.out
-assignments/A1/data/prep/test.in
 assignments/A1/data/lm/process.py
 assignments/A1/data/lm/trnew.txt
 assignments/A1/data/lm/vocab.txt

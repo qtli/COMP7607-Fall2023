@@ -12,6 +12,8 @@ COMP3314 or COMP3340, MATH1853
 
 [Assignments 1](assignments/A1)
 
+[Assignments 2](assignments/A2)
+
 [Final Project](project/)
 
 ## Evaluation
